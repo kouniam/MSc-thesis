@@ -1,6 +1,6 @@
 # MSc-thesis
 
-This repository contains a simplified archive of the code/scripts used to implement the model I designed for my master thesis project. It makes extensive use of the DICE (Dynamic Integrated Climate Change) model, an Integrated Assessment Model (IMA) developed by economist William Nordhaus.
+This repository contains a simplified archive of the code/scripts used to implement the model I designed for my master thesis project. It makes extensive use of the DICE (Dynamic Integrated Climate-Economy) model, an Integrated Assessment Model (IMA) developed by economist William Nordhaus.
 
 * DICE_optimizer.py - An adapted version of the DICE IMA (v2016), which runs on an optimization routine that outputs optimal path projections. [updated to DICEv2018]
 * coupled_DICE.py - This version of DICE incorporates the coupling mechanism into the opinion dynamics model and is the main structure of the project.
