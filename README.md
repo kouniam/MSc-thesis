@@ -4,7 +4,7 @@ This repository contains a simplified archive of the code/scripts used to implem
 
 * DICE_optimizer.py - An adapted version of the DICE IMA (v2016), which runs on an optimization routine that outputs optimal path projections. [updated to DICEv2018]
 * coupled_DICE.py - This version of DICE incorporates the coupling mechanism into the opinion dynamics model and is the main structure of the project.
-* generator.py - Custom script that generates the 2D grid required to simulated network behaviour. [makes use of NetworkX]
+* generator.py - Custom script that generates the 2D grid required to simulate dynamic network behaviour. [makes use of NetworkX]
 * opinion_dynamics.py - A variation of the statistical physical Ising model that emulates opinion formation in a society. 
 * pack_unpack.py - Auxiliary algebraic functions to increase performance.
 * presentation.pdf - Short pdf version of the final presentation, with selected visuals.
